@@ -1,4 +1,4 @@
-论文复现：历时性词向量追踪中国社会七十年性别角色变迁
+论文复现
 1. 研究目标（Objective）
 
 本代码旨在复现论文《Word Embeddings Track Social Group Changes Across 70 Years in China》中提出的历时性词向量分析方法，揭示中国社会七十年间（1950–2019）性别角色（男性、女性）的社会认知变迁。
